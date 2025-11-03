@@ -1,0 +1,46 @@
+# Core Python utilities
+numpy==1.26.4
+pandas==2.2.2
+scipy
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+tqdm==4.66.5
+joblib==1.4.2
+tqdm
+# NLP & text processing
+nltk==3.9.1
+transformers==4.44.2
+sentencepiece==0.2.0
+torch
+torchvision
+torchaudio
+
+# Image processing
+opencv-python
+Pillow
+
+# Deep learning utilities
+tensorflow
+keras
+albumentation
+
+# Feature extraction & dimensionality reduction
+umap-learn
+
+# File handling & utilities
+requests
+beautifulsoup4
+
+# ML model tuning & ensemble
+xgboost
+lightgbm
+catboost
+
+# Logging and tracking
+mlflow
+optuna
+
+# Notebook and debugging
+jupyterlab
+ipykernel
